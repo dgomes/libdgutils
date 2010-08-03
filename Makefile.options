@@ -1,0 +1,3 @@
+CXX_FLAGS=-DDEBUG -DLINUX
+#NETLINK=-lnetlink
+#BOOST_THREAD=-lboost_thread
